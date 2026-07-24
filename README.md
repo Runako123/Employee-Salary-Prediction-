@@ -214,7 +214,7 @@ An interactive Streamlit web app that predicts employee salary using Machine Lea
 ![Education](screenshots/EducationLevelDistribution_Visualisation.png.PNG)
 
 ### Salary Distribution
-![Salary Distribution](screenshots/Salary_Distribution_Visulisati...)
+![Salary Distribution](screenshots/Salary_Distribution_Visualisation.png)
 
 ## 🚀 How to Run
 ```bash
