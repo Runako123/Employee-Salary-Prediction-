@@ -198,27 +198,26 @@ An interactive Streamlit web app that predicts employee salary using Machine Lea
 
 ## 📸 Screenshots
 
+
 ### Dashboard
-![Dashboard](screenshots/app_dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/Runako123/Employee-Salary-Prediction-/main/screenshots/app_dashboard.png)
 
 ### Salary Prediction Page
-![Salary Prediction](screenshots/app_Salary_Prediction.png)
+![Salary Prediction](https://raw.githubusercontent.com/Runako123/Employee-Salary-Prediction-/main/screenshots/app_Salary_Prediction.png)
 
 ### Feature Importance
-![Feature Importance](screenshots/Feature_Importance.png)
+![Feature Importance](https://raw.githubusercontent.com/Runako123/Employee-Salary-Prediction-/main/screenshots/Feature_Importance.png)
 
 ### Average Salary by Job Title
-![Average Salary](screenshots/Average_SalarybyJobTitle.png)
+![Average Salary](https://raw.githubusercontent.com/Runako123/Employee-Salary-Prediction-/main/screenshots/Average_SalarybyJobTitle.png)
 
 ### Education Level Distribution
-![Education](screenshots/EducationLevelDistribution_Visualisation.png)
+![Education](https://raw.githubusercontent.com/Runako123/Employee-Salary-Prediction-/main/screenshots/EducationLevelDistribution_Visualisation.png)
 
 ### Salary Distribution
-![Salary Distribution](screenshots/Salary_Distribution_Visualisation.png)
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+![Salary Distribution](https://raw.githubusercontent.com/Runako123/Employee-Salary-Prediction-/main/screenshots/Salary_Distribution_Visualisation.png)
+
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
