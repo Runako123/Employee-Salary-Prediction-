@@ -192,46 +192,28 @@ EmployeeSalaryPrediction/
 
 # 📸 Application Screenshots
 
-## Dashboard
+# 💰 Employee Salary Prediction
 
-> *(Insert dashboard screenshot here)*
+An interactive Streamlit web app that predicts employee salary using Machine Learning.
 
-```
-screenshots/dashboard.png
-```
+## 📸 Screenshots
 
----
+### Dashboard
+![Dashboard](screenshots/ESP_dashboard.png)
 
-## Salary Prediction
+### Feature Importance
+![Feature Importance](screenshots/Feature_Importance.png.PNG)
 
-> *(Insert prediction page screenshot here)*
+### Average Salary by Job Title
+![Average Salary](screenshots/Average_SalarybyJobTitle.png.PNG)
 
-```
-screenshots/prediction.png
-```
+### Education Level Distribution
+![Education](screenshots/EducationLevelDistribution_Visualisation.png.PNG)
 
----
-
-## Analytics
-
-> *(Insert analytics screenshot here)*
-
-```
-screenshots/charts.png
-```
-
----
-
-## Dataset Explorer
-
-> *(Insert dataset explorer screenshot here)*
-
-```
-screenshots/dataset.png
-```
-
----
-
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
 # ⚙ Installation
 
 Clone the repository:
