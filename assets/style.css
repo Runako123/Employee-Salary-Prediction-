@@ -1,0 +1,126 @@
+/* ==========================================
+   PREMIUM DARK THEME
+========================================== */
+
+.main {
+    background-color: #0F172A;
+}
+
+/* Main app background */
+.stApp {
+    background-color: #0F172A;
+    color: #F8FAFC;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #111827;
+}
+
+/* Remove top header */
+header {
+    visibility: hidden;
+}
+
+/* Hide Streamlit footer */
+footer {
+    visibility: hidden;
+}
+
+/* ==========================================
+   TITLES
+========================================== */
+
+h1, h2, h3, h4 {
+    color: #F8FAFC;
+    font-weight: 700;
+}
+
+p {
+    color: #CBD5E1;
+}
+
+/* ==========================================
+   KPI CARDS
+========================================== */
+
+.metric-card {
+    background-color: #1E293B;
+    padding: 20px;
+    border-radius: 18px;
+    border-left: 5px solid #3B82F6;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.25);
+    transition: 0.3s;
+}
+
+.metric-card:hover {
+    transform: translateY(-5px);
+}
+
+.metric-title {
+    color: #94A3B8;
+    font-size: 16px;
+}
+
+.metric-value {
+    color: white;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+/* ==========================================
+   BUTTONS
+========================================== */
+
+.stButton button {
+    background-color: #3B82F6;
+    color: white;
+    border-radius: 12px;
+    border: none;
+    font-weight: bold;
+    height: 3em;
+    transition: 0.3s;
+}
+
+.stButton button:hover {
+    background-color: #2563EB;
+    transform: scale(1.03);
+}
+
+/* ==========================================
+   INPUTS
+========================================== */
+
+.stNumberInput,
+.stSelectbox,
+.stTextInput {
+    border-radius: 12px;
+}
+
+/* ==========================================
+   DATAFRAME
+========================================== */
+
+[data-testid="stDataFrame"] {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+/* ==========================================
+   CHART CONTAINERS
+========================================== */
+
+.chart-container {
+    background-color: #1E293B;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+/* ==========================================
+   DIVIDERS
+========================================== */
+
+hr {
+    border: 1px solid #334155;
+}
