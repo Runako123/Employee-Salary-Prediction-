@@ -6,7 +6,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-blueviolet?logo=plotly)
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Employee Salary Prediction & Analytics Dashboard** is an interactive Machine Learning application developed using **Python**, **Scikit-learn**, **Pandas**, **Plotly**, and **Streamlit**.
 
@@ -16,7 +16,7 @@ This project demonstrates the complete Data Science workflow—from data preproc
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Predict employee salaries using Machine Learning.
 * Analyze salary trends across different employee groups.
@@ -26,9 +26,9 @@ This project demonstrates the complete Data Science workflow—from data preproc
 
 ---
 
-# 🚀 Key Features
+#  Key Features
 
-### 🤖 Machine Learning Salary Prediction
+### Machine Learning Salary Prediction
 
 Predicts employee salaries using:
 
@@ -42,7 +42,7 @@ The model instantly estimates an employee's expected salary based on the selecte
 
 ---
 
-### 📊 Interactive Analytics Dashboard
+###  Interactive Analytics Dashboard
 
 The dashboard presents important workforce statistics including:
 
@@ -53,7 +53,7 @@ The dashboard presents important workforce statistics including:
 
 ---
 
-### 📈 Interactive Data Visualizations
+###  Interactive Data Visualizations
 
 The dashboard includes multiple interactive charts such as:
 
@@ -66,7 +66,7 @@ These visualizations help users understand salary patterns and the factors influ
 
 ---
 
-### 📁 Employee Dataset Explorer
+### Employee Dataset Explorer
 
 Users can browse and search the employee dataset directly within the application.
 
@@ -79,7 +79,7 @@ Features include:
 
 ---
 
-## 🧠 Machine Learning Workflow
+## Machine Learning Workflow
 
 The project follows a complete Machine Learning pipeline:
 
@@ -162,7 +162,7 @@ These metrics indicate that the model provides strong predictive performance whi
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 EmployeeSalaryPrediction/
@@ -190,13 +190,10 @@ EmployeeSalaryPrediction/
 
 ---
 
-# 📸 Application Screenshots
+#  Application Screenshots
 
-# 💰 Employee Salary Prediction
 
-An interactive Streamlit web app that predicts employee salary using Machine Learning.
-
-## 📸 Screenshots
+##  Screenshots
 
 ### Dashboard
 ![Dashboard](screenshots/ESP_dashboard.png.PNG)
@@ -216,7 +213,7 @@ An interactive Streamlit web app that predicts employee salary using Machine Lea
 ### Salary Distribution
 ![Salary Distribution](screenshots/Salary_Distribution_Visualisation.png)
 
-## 🚀 How to Run
+## How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
@@ -248,7 +245,7 @@ streamlit run app.py
 
 ---
 
-# 🎯 Skills Demonstrated
+#  Skills Demonstrated
 
 This project demonstrates practical knowledge in:
 
@@ -265,7 +262,7 @@ This project demonstrates practical knowledge in:
 
 ---
 
-# 📈 Future Improvements
+#  Future Improvements
 
 Planned enhancements include:
 
