@@ -198,7 +198,6 @@ An interactive Streamlit web app that predicts employee salary using Machine Lea
 
 ## 📸 Screenshots
 
-
 ### Dashboard
 ![Dashboard](https://raw.githubusercontent.com/Runako123/Employee-Salary-Prediction-/main/screenshots/app_dashboard.png)
 
@@ -217,7 +216,7 @@ An interactive Streamlit web app that predicts employee salary using Machine Lea
 ### Salary Distribution
 ![Salary Distribution](https://raw.githubusercontent.com/Runako123/Employee-Salary-Prediction-/main/screenshots/Salary_Distribution_Visualisation.png)
 
-
+s
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
