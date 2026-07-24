@@ -199,17 +199,27 @@ An interactive Streamlit web app that predicts employee salary using Machine Lea
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/ESP_dashboard.png)
+![Dashboard](screenshots/app_dashboard.png)
+
+### Salary Prediction Page
+![Salary Prediction](screenshots/app_Salary_Prediction.png)
 
 ### Feature Importance
-![Feature Importance](screenshots/Feature_Importance.png.PNG)
+![Feature Importance](screenshots/Feature_Importance.png)
 
 ### Average Salary by Job Title
-![Average Salary](screenshots/Average_SalarybyJobTitle.png.PNG)
+![Average Salary](screenshots/Average_SalarybyJobTitle.png)
 
 ### Education Level Distribution
-![Education](screenshots/EducationLevelDistribution_Visualisation.png.PNG)
+![Education Distribution](screenshots/EducationLevelDistribution_Visualisation.png)
 
+### Salary Distribution
+![Salary Distribution](screenshots/Salary_Distribution_Visualisation.png)
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
