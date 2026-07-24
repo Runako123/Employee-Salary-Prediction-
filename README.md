@@ -211,11 +211,10 @@ An interactive Streamlit web app that predicts employee salary using Machine Lea
 ![Average Salary](screenshots/Average_SalarybyJobTitle.png)
 
 ### Education Level Distribution
-![Education Distribution](screenshots/EducationLevelDistribution_Visualisation.png)
+![Education](screenshots/EducationLevelDistribution_Visualisation.png)
 
 ### Salary Distribution
 ![Salary Distribution](screenshots/Salary_Distribution_Visualisation.png)
-
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
