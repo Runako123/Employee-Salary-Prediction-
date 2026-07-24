@@ -208,13 +208,13 @@ An interactive Streamlit web app that predicts employee salary using Machine Lea
 ![Feature Importance](screenshots/Feature_Importance.png.PNG)
 
 ### Average Salary by Job Title
-![Average Salary](screenshots/Average_SalarybyJobTitle.png)
+![Average Salary](screenshots/Average_SalarybyJobTitle.png.PNG)
 
 ### Education Level Distribution
 ![Education](screenshots/EducationLevelDistribution_Visualisation.png.PNG)
 
 ### Salary Distribution
-![Salary Distribution](screenshots/Salary_Distribution_Visualisation.png)
+![Salary Distribution](screenshots/Salary_Distribution_Visualisation.png.PNG)
 
 ## 🚀 How to Run
 ```bash
